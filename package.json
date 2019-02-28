@@ -1,0 +1,21 @@
+{
+  "name": "mobx",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "lodash": "4.17.11",
+    "mobx": "5.9.0",
+    "mobx-react": "5.4.3",
+    "react-dom": "16.8.3",
+    "react-native-elements": "1.1.0",
+    "react-native-paper": "2.2.8",
+    "react-native-status-bar-height": "2.2.0",
+    "victory-native": "31.0.0"
+  }
+}

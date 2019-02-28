@@ -1,8 +1,8 @@
 import { observable, action } from 'mobx';
 class Contacts {
 	@observable all = [
-		{ id: 1, name: 'Prakash', email: 'prakash.techdoodles@gmail.com' },
-		{ id: 2, name: 'Kruti', email: 'kruti.techdoodles@gmail.com' },
+		{ id: 1, name: 'test1', email: 'test1.techdoodles@gmail.com' },
+		{ id: 2, name: 'test2', email: 'test2.techdoodles@gmail.com' },
 	];
 
 	@action add(data) {
